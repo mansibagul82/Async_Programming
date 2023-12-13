@@ -1,0 +1,38 @@
+
+.container{
+    height: 300px;
+    width: 50%;
+    margin: auto;
+    background-color: rgb(247, 171, 247);
+    box-shadow: rgba(240, 46, 170, 0.4) 5px 5px, rgba(240, 46, 170, 0.3) 10px 10px, rgba(240, 46, 170, 0.2) 15px 15px, rgba(240, 46, 170, 0.1) 20px 20px, rgba(240, 46, 170, 0.05) 25px 25px;
+}
+
+h2{
+
+    text-align: center;
+    font-weight: 400;
+    font-size: xx-large;
+    color: rgb(168, 119, 13);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+
+.timer-display{
+
+    text-align: center;
+    line-height: 3;
+}
+
+.buttons{
+
+    text-align: center;
+    color: #f1a93c;
+    line-height: 9;
+}
+
+.buttons > button{
+
+    padding: 2%;
+    width: 20%;
+    background-color: #f1a93c;
+}
